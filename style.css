@@ -1,0 +1,12 @@
+body { background: #56fd3d; margin: 0; font-family: sans-serif; }
+.storefront-container { padding: 22px; display: flex; }
+.block-product-0 { color: #eaffdf; font-size: 12px; margin-bottom: 5px; }
+.block-email-1 { color: #6c845a; font-size: 17px; margin-bottom: 5px; }
+.block-router-2 { color: #a9d40; font-size: 21px; margin-bottom: 5px; }
+.block-invoice-3 { color: #b6a6bd; font-size: 17px; margin-bottom: 5px; }
+.block-config-4 { color: #8c20ce; font-size: 19px; margin-bottom: 5px; }
+.block-metrics-5 { color: #56903d; font-size: 15px; margin-bottom: 5px; }
+.block-cart-6 { color: #957985; font-size: 20px; margin-bottom: 5px; }
+.block-notify-7 { color: #c21aee; font-size: 13px; margin-bottom: 5px; }
+.block-uploader-8 { color: #a947e9; font-size: 15px; margin-bottom: 5px; }
+.block-logger-9 { color: #c09e76; font-size: 21px; margin-bottom: 5px; }
